@@ -29,6 +29,8 @@ Run the model
 ```bash
 ollama run ministral-3:3b
 ```
+If even smaller memory foortprints are required, a model like TinyLama can be utilized: https://ollama.com/library/tinyllama
+
 
 ### DuckDB
 DuckDB is an open-source, high-performance, in-process SQL OLAP (Online Analytical Processing) database management system. It is frequently described as the "SQLite for analytics" because it is designed to be embedded directly into an application—such as a Python script, R environment, or CLI—without needing a separate server process.
